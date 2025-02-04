@@ -93,7 +93,7 @@
     <script src="<?php echo e(asset('frontend/assets/js/nav-tool.js')); ?>"></script>
 
     <!-- map script -->
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-CE0deH3Jhj6GN4YvdCFZS7DpbXexzGU"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key="></script>
     <script src="<?php echo e(asset('frontend/assets/js/gmaps.js')); ?>"></script>
     <script src="<?php echo e(asset('frontend/assets/js/map-helper.js')); ?>"></script>
 
